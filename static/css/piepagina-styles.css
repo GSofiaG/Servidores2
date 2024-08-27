@@ -1,0 +1,17 @@
+footer{
+    background-color: rgb(207, 130, 130);
+    width: 90%;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 32px;
+    margin-top: 30px;
+    box-shadow: 12px 12px 20px #4d27b3;
+}
+
+footer h1{
+    color: antiquewhite;
+    font-size: 40px;
+    text-align: center;
+    line-height: 70px;
+    text-shadow: 5px 5px 5px #390a53;
+}

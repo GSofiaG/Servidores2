@@ -1,0 +1,57 @@
+.caja-grande{
+    background-color: lightgrey;
+    width: 90%;
+    height: 380px;
+    margin-top: 30px;
+    margin-left: 5%;
+    display: flex;
+}
+
+.caja-p-1{
+    width: 30%;
+    height: 100%;
+    background-color: darksalmon;
+    border: 4px solid #490e61;
+    overflow-y: scroll;
+}
+
+.caja-p-2{
+    width: 70%;
+    height: 100%;
+    background-color: lightcoral;
+    border: 4px solid #490e61;
+
+}
+
+.cajasp{
+    background-color: rgb(223, 80, 101);
+    width: 80%;
+    height: 40%;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 15px;
+    border: 3px solid #462681;
+}
+
+.cajasp img{
+    width: 85%;
+    height: 95%;
+    margin: 0 auto;
+    margin-left: 20px;
+    margin-top: 5px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.img-carosuel-1{
+    height: 80%;
+    width: 60%;
+    margin-left: 160px;
+    margin-top: 20px;
+
+}
+

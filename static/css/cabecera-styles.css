@@ -42,9 +42,9 @@ header ul li a{
     line-height: 30px;
 }
  header ul li:hover a{
-    background-color: darkslateblue;
+    background-color: rgb(112, 16, 91);
     font-size: 38px;
-    color: indigo;  
+    color: rgb(9, 1, 15);  
  }
 
  header ul li a{
